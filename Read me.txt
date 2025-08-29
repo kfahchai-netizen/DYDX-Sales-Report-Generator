@@ -1,0 +1,10 @@
+In order to run the program, you should install the following external library:
+matplotlib
+
+To do this, you should go to the command prompt and type the following:
+"pip install matplotlib"
+
+The username and password to sign in are as follows:
+username: admin
+password: 123
+
